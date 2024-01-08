@@ -11,5 +11,4 @@ This repository serves as personal portfolio website built using HTML, CSS, Djan
 
 ## How to Run
 
-1. Clone the Project from GitHub
-  git clone 
+1. Clone the Project from GitHub git clone https://github.com/EastonArcher/Django-Website.git
