@@ -19,7 +19,7 @@ cd Django-Website
 ```
 2. Open the project in a virtual environment
 
-3. In the terminal
+3. In a new terminal
 ```
 cd mywebsite
 python manage.py runserver
