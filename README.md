@@ -1,6 +1,6 @@
 ## Website Built using Django and Bootstrap
 
-# This repository serves as personal portfolio website built using HTML, CSS, Django, and Bootstrap
+### This repository serves as personal portfolio website built using HTML, CSS, Django, and Bootstrap
 
 ## 🚀 Key Features:
 
