@@ -21,4 +21,5 @@ This repository serves as personal portfolio website built using HTML, CSS, Djan
 3. In the terminal
   - cd mywebsite
   - python manage.py runserver
+
 and navigate to http://127.0.0.1:8000/ 
