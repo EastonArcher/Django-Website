@@ -8,7 +8,6 @@
 2. **Responsive Layout**: via to Bootstrap, the website adapts seamlessly to various devices and screen sizes, ensuring an optimal viewing experience for everyone.
 3. **Dynamic Content**: Powered by Django, this portfolio dynamically updates to reflect the latest projects and achievement.
 
-
 ## ⚡ Setup
 
 1. Clone the Project from GitHub
