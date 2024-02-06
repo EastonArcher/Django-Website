@@ -12,10 +12,10 @@
 
 1. Clone the Project from GitHub
 
-```$
-git clone https://github.com/EastonArcher/Django-Website.git
-cd Django-Website
-```
+  ```$
+  git clone https://github.com/EastonArcher/Django-Website.git
+  cd Django-Website
+  ```
 2. Open the project in a virtual environment
 
 3. In a new terminal
