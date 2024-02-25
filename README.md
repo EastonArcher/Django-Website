@@ -20,6 +20,8 @@
 3. In a new terminal
   ```$
   cd mywebsite
+  ```
+  ```$
   python manage.py runserver
   ```
 Lastly, navigate to **http://127.0.0.1:8000/** to access the live server website
