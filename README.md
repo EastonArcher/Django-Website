@@ -4,7 +4,7 @@
 
 ## 🚀 Key Features:
 
-1. **Engaging Design**: This website boasts a modern and sleek design that lets visitors understand who I am.
+1. **Engaging Design**: This website utilizes a modern and sleek design that lets visitors find out more about me.
 2. **Responsive Layout**: via to Bootstrap, the website adapts seamlessly to various devices and screen sizes, ensuring an optimal viewing experience for everyone.
 3. **Dynamic Content**: Powered by Django, this portfolio dynamically updates to reflect my latest projects and achievement.
 
