@@ -9,6 +9,7 @@
 3. **Dynamic Content**: Powered by Django, this portfolio dynamically updates to reflect my latest projects and achievement.
 
 ## ⚡ Setup
+
 1. Clone the Project from GitHub
   ```$
   git clone https://github.com/EastonArcher/Django-Website.git
