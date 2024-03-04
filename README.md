@@ -26,3 +26,4 @@
     python manage.py runserver
     ```
 4. Lastly, navigate to **http://127.0.0.1:8000/** to access the live server website
+
