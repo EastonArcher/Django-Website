@@ -19,6 +19,10 @@
     ```
 2. Open the project in a virtual environment
 3. In a new terminal
-    <br>```cd mywebsite```<br>
-    ```python manage.py runserver```
-4. Lastly, navigate to **http://127.0.0.1:8000/** to access the live server website
+    ```$
+   cd mywebsite
+    ```
+    ```$
+   python manage.py runserver
+    ```
+5. Lastly, navigate to **http://127.0.0.1:8000/** to access the live server website
